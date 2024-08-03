@@ -5,12 +5,12 @@
 ## &#x1F34F; Method 1: using PDF2image and poppler library ##
 1. Install Anaconda
 2. Launch VS Via Anaconda and install libraries (as required)
-conda install -c conda-forge poppler
-conda install conda-forge::pdf2image
-conda install conda-forge/label/cf202003::pdf2image
-conda install conda-forge::pytesseract
-conda install conda-forge/label/cf202003::pytesseract
-conda install -c anaconda glob2 (if you are using pdf folder)
+- conda install -c conda-forge poppler
+- conda install conda-forge::pdf2image
+- conda install conda-forge/label/cf202003::pdf2image
+- conda install conda-forge::pytesseract
+- conda install conda-forge/label/cf202003::pytesseract
+- conda install -c anaconda glob2 (if you are using pdf folder)
 
 3. Download Popper from https://github.com/oschwartz10612/poppler-windows. Extract and save in a any location and update Poppler "Library\bin" path in Python Script (imageToText.py)
 4. Update output(for Text) and input path (for PDF) in the Python Script.(imageToText.py )
