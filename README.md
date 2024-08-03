@@ -35,4 +35,4 @@ once the PDF OCR file has been extracted using Adobe API,you can run PDF to JSON
 ### excel output from pdf to JSON / Excel Script ###
 ![python to json extract using PyPDF2](https://github.com/user-attachments/assets/fc6cd693-701a-40fe-9339-b3114e9f5d58)
 
-## $${\color{green}Powered \space by \space Deepak  \space Lohia \space Automations}$$ ##
+### $${\color{green}Powered \space by: Deepak  \space Lohia \space Automations}$$ ###
