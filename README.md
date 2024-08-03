@@ -1,8 +1,8 @@
 # Extract PDF OCR (image) data into text file #
 
-### sample pdf ###
+## $${\color{red}problem  \space statement}$$ ##
+### we need to extract text from the image/OCR pdf  ###
 ![sample_pdf](https://github.com/user-attachments/assets/8297b2a8-5ff2-4a6e-a8b2-760746936408)
-
 
 ## Method 1: using PDF2image and poppler library ##
 1. Install Anaconda
