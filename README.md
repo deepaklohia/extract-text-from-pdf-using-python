@@ -1,4 +1,8 @@
 # Extract PDF OCR (image) data into text file #
+
+[![PDF to Text](https://github.com/user-attachments/assets/e2f628b5-3557-480c-a759-024d2b44d216)](https://youtu.be/Y8FQrQJYhrk)
+
+
 ### &#x1F34E; Problem Statement: we need to extract text from the image/OCR pdf  ###
 ![sample_pdf](https://github.com/user-attachments/assets/8297b2a8-5ff2-4a6e-a8b2-760746936408)
 
